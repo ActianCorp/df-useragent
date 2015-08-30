@@ -1,0 +1,12 @@
+This product includes software developed by Actian Corporation (http://www.actian.com/).
+
+In addition, this product includes the following software:
+
+Quality-Check 1.3 (http://qualitycheck.sourceforge.net/index.html) which is a small Java library for basic runtime code
+quality checks.
+It uses the Apache 2.0 License (http://www.apache.org/licenses/LICENSE-2.0).
+
+UADetector 0.9.22 (http://uadetector.sourceforge.net/) which is a library to identify over 190 different desktop and
+mobile browsers and 130 other User-Agents like feed readers, email clients and multimedia players. In addition, even
+more than 400 robots like BingBot, Googlebot or Yahoo Bot can be identified.
+It uses the Apache 2.0 License (http://www.apache.org/licenses/LICENSE-2.0).
